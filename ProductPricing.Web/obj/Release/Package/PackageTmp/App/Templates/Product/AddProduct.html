@@ -1,0 +1,35 @@
+﻿<div class="modal-header">
+    <h3 class="modal-title">Supplier Information</h3>
+</div>
+<div class="modal-body">
+    <form class="form-horizontal" name="productForm" novalidate>
+        <fieldset>
+            <legend></legend>
+            <div class="form-group">
+                <label for="name" class="col-lg-2 control-label">Name</label>
+                <div class="col-lg-10">
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Name" ng-model="product.name" required>
+                    <p ng-show="productForm.name.$invalid && !productForm.name.$pristine" class="help-block">Name is required.</p>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="numberofPeople" class="col-lg-2 control-label">Number of People</label>
+                <div class="col-lg-10">
+                    <textarea class="form-control" rows="3" id="numberofPeople" name="numberofPeople" required ng-model="product.numberofPeople" min="1"></textarea>
+                    <p ng-show="productForm.numberofPeople.$invalid && !productForm.numberofPeople.$pristine" class="help-block"> Number of people is required</p>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="phone" class="col-lg-2 control-label">Phone</label>
+                <div class="col-lg-10">
+                    <input type="text" class="form-control" id="phone" name="telephone" placeholder="Phone" ng-model="product.telephone">
+                </div>
+            </div>
+        </fieldset>
+    </form>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-default" ng-click="">Cancel</button>
+    <button type="submit" class="btn btn-primary" ng-click="Commands.saveSupplier(product)" ng-disabled="productForm.$invalid">Submit</button>
+</div>

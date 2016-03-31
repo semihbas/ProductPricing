@@ -1,0 +1,40 @@
+﻿<div class="modal-header">
+    <h3 class="modal-title"> <span class="mdi-communication-products"></span> Product</h3>
+</div>
+<div class="modal-body">
+    <form class="form-horizontal" name="productForm" method="post">
+        <fieldset>
+            <legend></legend>
+
+            <div class="form-group">
+                <label for="supplierSelect" class="col-lg-2 control-label"> Supplier </label>
+                <div class="col-lg-10">
+                    <select name="supplierSelect" class="form-control" id="supplierSelect" ng-model="product.supplierId">
+                        <option value="0">Select</option>
+                        <option ng-repeat="supplier in suppliers" value="{{supplier.id}}">{{supplier.name}}</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="name" class="col-lg-2 control-label">Name</label>
+                <div class="col-lg-10">
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Name" ng-model="product.name" required>
+                    <p ng-show="productForm.name.$invalid && !productForm.name.$pristine" class="help-block">Name is required.</p>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="price" class="col-lg-2 control-label">Price</label>
+                <div class="col-lg-10">
+                    <input type="number" class="form-control" id="price" name="price" placeholder="Price" ng-model="product.price" required>
+                    <p ng-show="productForm.price.$invalid && !productForm.price.$pristine" class="help-block"> Price is required.</p>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-default" ng-click="cancel()">Cancel</button>
+    <button type="submit" class="btn btn-primary" ng-click="ok()" ng-disabled="productForm.$invalid">Submit</button>
+</div>

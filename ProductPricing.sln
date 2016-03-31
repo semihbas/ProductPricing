@@ -1,0 +1,109 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{FC5DFEC1-DBF6-44C2-ACF1-2EB3A6FC7B07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{5921D49F-2989-463B-AFB2-C4BE22074449}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presantation", "Presantation", "{E9C0130F-DB8F-41BC-9765-7ABF44799406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductPricing.Core", "ProductPricing.Core\ProductPricing.Core.csproj", "{6D75FC67-3E67-4BE2-9486-9F2B721522DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductPricing.Services", "ProductPricing.Services\ProductPricing.Services.csproj", "{16028F30-28EA-420A-BC21-54DD621DA03E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductPricing.Data", "ProductPricing.Data\ProductPricing.Data.csproj", "{BD68C3A2-6298-4650-9A00-25414E170306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductPricing.Dto", "ProductPricing.Dto\ProductPricing.Dto.csproj", "{5ECF0EE4-CEF1-43E7-A5A7-E0EE03392B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductPricing.Logging", "ProductPricing.Logging\ProductPricing.Logging.csproj", "{5E90CEF1-2A20-49FA-AE0D-C3C76CC92540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductPricing.Web", "ProductPricing.Web\ProductPricing.Web.csproj", "{63589B62-95E5-4488-A682-ACB7CC073C5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C7974A06-9EB5-4064-924B-5862480BF5C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductPricing.Tests", "ProductPricing.Tests\ProductPricing.Tests.csproj", "{2A0617B9-07BF-45BA-B084-3A3AFD407003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D75FC67-3E67-4BE2-9486-9F2B721522DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D75FC67-3E67-4BE2-9486-9F2B721522DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D75FC67-3E67-4BE2-9486-9F2B721522DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D75FC67-3E67-4BE2-9486-9F2B721522DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16028F30-28EA-420A-BC21-54DD621DA03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16028F30-28EA-420A-BC21-54DD621DA03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16028F30-28EA-420A-BC21-54DD621DA03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16028F30-28EA-420A-BC21-54DD621DA03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD68C3A2-6298-4650-9A00-25414E170306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD68C3A2-6298-4650-9A00-25414E170306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD68C3A2-6298-4650-9A00-25414E170306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD68C3A2-6298-4650-9A00-25414E170306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECF0EE4-CEF1-43E7-A5A7-E0EE03392B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECF0EE4-CEF1-43E7-A5A7-E0EE03392B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECF0EE4-CEF1-43E7-A5A7-E0EE03392B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECF0EE4-CEF1-43E7-A5A7-E0EE03392B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E90CEF1-2A20-49FA-AE0D-C3C76CC92540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E90CEF1-2A20-49FA-AE0D-C3C76CC92540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E90CEF1-2A20-49FA-AE0D-C3C76CC92540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E90CEF1-2A20-49FA-AE0D-C3C76CC92540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63589B62-95E5-4488-A682-ACB7CC073C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63589B62-95E5-4488-A682-ACB7CC073C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63589B62-95E5-4488-A682-ACB7CC073C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63589B62-95E5-4488-A682-ACB7CC073C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0617B9-07BF-45BA-B084-3A3AFD407003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0617B9-07BF-45BA-B084-3A3AFD407003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0617B9-07BF-45BA-B084-3A3AFD407003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0617B9-07BF-45BA-B084-3A3AFD407003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6D75FC67-3E67-4BE2-9486-9F2B721522DA} = {FC5DFEC1-DBF6-44C2-ACF1-2EB3A6FC7B07}
+		{16028F30-28EA-420A-BC21-54DD621DA03E} = {FC5DFEC1-DBF6-44C2-ACF1-2EB3A6FC7B07}
+		{BD68C3A2-6298-4650-9A00-25414E170306} = {5921D49F-2989-463B-AFB2-C4BE22074449}
+		{5ECF0EE4-CEF1-43E7-A5A7-E0EE03392B9B} = {5921D49F-2989-463B-AFB2-C4BE22074449}
+		{5E90CEF1-2A20-49FA-AE0D-C3C76CC92540} = {5921D49F-2989-463B-AFB2-C4BE22074449}
+		{63589B62-95E5-4488-A682-ACB7CC073C5E} = {E9C0130F-DB8F-41BC-9765-7ABF44799406}
+		{2A0617B9-07BF-45BA-B084-3A3AFD407003} = {C7974A06-9EB5-4064-924B-5862480BF5C2}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://semihbas.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = ProductPricing.Core\\ProductPricing.Core.csproj
+		SccProjectTopLevelParentUniqueName0 = Test_SemihBas.sln
+		SccProjectName0 = ProductPricing.Core
+		SccLocalPath0 = ProductPricing.Core
+		SccProjectUniqueName1 = ProductPricing.Data\\ProductPricing.Data.csproj
+		SccProjectTopLevelParentUniqueName1 = Test_SemihBas.sln
+		SccProjectName1 = ProductPricing.Data
+		SccLocalPath1 = ProductPricing.Data
+		SccProjectUniqueName2 = ProductPricing.Dto\\ProductPricing.Dto.csproj
+		SccProjectTopLevelParentUniqueName2 = Test_SemihBas.sln
+		SccProjectName2 = ProductPricing.Dto
+		SccLocalPath2 = ProductPricing.Dto
+		SccProjectUniqueName3 = ProductPricing.Logging\\ProductPricing.Logging.csproj
+		SccProjectTopLevelParentUniqueName3 = Test_SemihBas.sln
+		SccProjectName3 = ProductPricing.Logging
+		SccLocalPath3 = ProductPricing.Logging
+		SccProjectUniqueName4 = ProductPricing.Services\\ProductPricing.Services.csproj
+		SccProjectTopLevelParentUniqueName4 = Test_SemihBas.sln
+		SccProjectName4 = ProductPricing.Services
+		SccLocalPath4 = ProductPricing.Services
+		SccProjectUniqueName5 = ProductPricing.Tests\\ProductPricing.Tests.csproj
+		SccProjectTopLevelParentUniqueName5 = Test_SemihBas.sln
+		SccProjectName5 = ProductPricing.Tests
+		SccLocalPath5 = ProductPricing.Tests
+		SccProjectUniqueName6 = ProductPricing.Web\\ProductPricing.Web.csproj
+		SccProjectTopLevelParentUniqueName6 = Test_SemihBas.sln
+		SccProjectName6 = ProductPricing.Web
+		SccLocalPath6 = ProductPricing.Web
+		SccLocalPath7 = .
+	EndGlobalSection
+EndGlobal

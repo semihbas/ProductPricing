@@ -1,0 +1,21 @@
+﻿<div class="modal-header">
+    <h3 class="modal-title"> <span class="mdi-communication-products"></span> Supplier</h3>
+</div>
+<div class="modal-body">
+    <form class="form-horizontal" name="supplierForm" method="post">
+        <fieldset>
+            <legend></legend>
+            <div class="form-group">
+                <label for="name" class="col-lg-2 control-label">Name</label>
+                <div class="col-lg-10">
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Name" ng-model="supplier.name" required>
+                    <p ng-show="supplierForm.name.$invalid && !supplierForm.name.$pristine" class="help-block">Name is required.</p>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-default" ng-click="cancel()">Cancel</button>
+    <button type="submit" class="btn btn-primary" ng-click="ok()" ng-disabled="supplierForm.$invalid">Submit</button>
+</div>

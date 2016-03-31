@@ -1,0 +1,15 @@
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\ProductPricing.Logging.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\ProductPricing.Logging.pdb
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\NLog.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\ProductPricing.Core.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\EntityFramework.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\ProductPricing.Core.pdb
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\NLog.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\bin\Release\EntityFramework.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\obj\Release\ProductPricing.Logging.csprojResolveAssemblyReference.cache
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\obj\Release\ProductPricing.Logging.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Logging\obj\Release\ProductPricing.Logging.pdb

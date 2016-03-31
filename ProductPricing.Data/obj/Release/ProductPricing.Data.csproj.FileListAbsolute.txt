@@ -1,0 +1,17 @@
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\ProductPricing.Data.dll.config
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\ProductPricing.Data.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\ProductPricing.Data.pdb
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\EntityFramework.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\ProductPricing.Core.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\ProductPricing.Core.pdb
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\EntityFramework.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\obj\Release\ProductPricing.Data.Migrations.InitialCreate.resources
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\obj\Release\ProductPricing.Data.csproj.GenerateResource.Cache
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\obj\Release\ProductPricing.Data.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\obj\Release\ProductPricing.Data.pdb

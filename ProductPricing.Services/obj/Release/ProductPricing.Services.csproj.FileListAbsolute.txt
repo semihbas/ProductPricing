@@ -1,0 +1,13 @@
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\bin\Release\ProductPricing.Services.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\bin\Release\ProductPricing.Services.pdb
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\bin\Release\ProductPricing.Core.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\bin\Release\EntityFramework.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\bin\Release\ProductPricing.Core.pdb
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\bin\Release\EntityFramework.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\obj\Release\ProductPricing.Services.csprojResolveAssemblyReference.cache
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\obj\Release\ProductPricing.Services.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Services\obj\Release\ProductPricing.Services.pdb

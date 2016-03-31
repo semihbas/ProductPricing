@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html ng-app="productPricingApp">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Product Pricing</title>
+    @Styles.Render("~/Assets/Styles/CSS")
+</head>
+<body ng-controller="GlobalController">
+    <md-progress-circular md-mode="indeterminate" ng-show="isLoading"></md-progress-circular>
+    <div class="container body-content">
+        <section class="row" ng-show="Global.isAuthenticated">
+            <a ng-click="Global.logOut()" class="btn btn-lg btn-default pull-right"><span class="mdi-action-settings-power"></span></a>
+        </section>
+        <ng-view>
+        </ng-view>
+
+        <hr />
+        <footer class="footer">
+            <div class="row">
+                <div class="col-md-6">
+                    &copy; @DateTime.Now.Year - Developed and Designed by Semih Bas
+                </div>
+                <div class="col-md-6 pull-right">
+                </div>
+            </div>
+        </footer>
+        <br />
+    </div>
+    @Scripts.Render("~/Assets/Scripts/JS")
+    <script src="~/App/Services/Interceptors/errorHandler.js"></script>
+    <script src="~/App/Services/Interceptors/xmlHttpInterceptor.js"></script>
+    <script src="~/App/Services/Account/storageHandler.js"></script>
+    <script src="~/App/Services/Account/tokenHandler.js"></script>
+    <script src="~/App/Services/Account/authService.js"></script>
+    <script src="~/App/Route/routeConfig.js"></script>
+    <script src="~/App/Services/Product/productService.js"></script>
+    <script src="~/App/Services/Supplier/supplierService.js"></script>
+    <script src="~/App/Controllers/Global/globalController.js"></script>
+    <script src="~/App/Controllers/Account/loginController.js"></script>
+    <script src="~/App/Controllers/Account/registerController.js"></script>
+    <script src="~/App/Controllers/Product/productController.js"></script>
+    <script src="~/App/Controllers/Product/productFormModalController.js"></script>
+    <script src="~/App/Controllers/Supplier/supplierFormModalController.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.material.init();
+        });
+    </script>
+</body>
+</html>

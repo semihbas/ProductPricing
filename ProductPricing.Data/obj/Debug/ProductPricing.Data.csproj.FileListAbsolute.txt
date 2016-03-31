@@ -1,0 +1,17 @@
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\ProductPricing.Data.dll.config
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\ProductPricing.Data.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\ProductPricing.Data.pdb
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\EntityFramework.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\ProductPricing.Core.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\ProductPricing.Core.pdb
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\EntityFramework.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\obj\Debug\ProductPricing.Data.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\obj\Debug\ProductPricing.Data.pdb
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\obj\Debug\ProductPricing.Data.Migrations.Initial.resources
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Data\obj\Debug\ProductPricing.Data.csproj.GenerateResource.Cache

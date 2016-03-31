@@ -1,0 +1,4 @@
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Dto\bin\Release\ProductPricing.Dto.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Dto\bin\Release\ProductPricing.Dto.pdb
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Dto\obj\Release\ProductPricing.Dto.dll
+C:\Users\smh_b\Documents\Visual Studio 2015\Projects\Test_SemihBas\ProductPricing.Dto\obj\Release\ProductPricing.Dto.pdb
