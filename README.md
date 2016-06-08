@@ -1,4 +1,4 @@
-# Sample Enterprice Web Application with best practices
+# Sample Enterprice Web Application With Best Practices
 Entity Framework 
 Autofac 
 Automapper 
